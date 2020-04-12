@@ -1,0 +1,1 @@
+!jt -t monokai -f roboto -fs 12 -nf latosans -nfs 13 -ofs 11 -tf latosans -tfs 13 -T -cellw 80% -lineh 200 -altmd
